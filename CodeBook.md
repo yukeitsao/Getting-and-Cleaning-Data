@@ -15,7 +15,7 @@ We can see some of its column names as follows.
     "tBodyAcc_mean_Y"
     "tBodyAcc_mean_Z"
     "tBodyAcc_std_X"
-The first column "subject" is the subject id idecate the 30 volunteers
+The first column "subject" is the subject id indicate the 30 volunteers
 
     [1]  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30  1  2 
 The second column "activity_name" is the 6 activity names,and it is sort by Letter order.
